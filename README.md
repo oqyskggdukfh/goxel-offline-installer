@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Voxel+Editor-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Goxel Free Installer** — Goxel is a free, open-source 3D voxel editor for Windows, macOS, Linux, iOS, and Android. Works without internet access, no account required. Full offline installation.
+**💻 Goxel Free Installer** — Goxel is a free, open-source voxel editor for Windows, macOS, Linux, iOS, and Android. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Goxel
 
-Goxel is a free, open-source 3D voxel editor for Windows, macOS, Linux, iOS, and Android. Create voxel models with painting, extrusion, and selection tools, and export to OBJ, PLY, or Minecraft-compatible formats. Goxel's cross-platform nature including mobile support makes it accessible for voxel artists who want to create on any device.
+Goxel is a free, open-source voxel editor for Windows, macOS, Linux, iOS, and Android. It features a simple interface for building 3D voxel models, isometric view, layer support, and export to OBJ, PLY, and other 3D formats.
 
 ---
 
 ## ❌ Problem: Goxel is hard to access
 
-- **Feature Set** — Less feature-rich than MagicaVoxel for complex artistic voxel work
-- **Rendering** — No built-in path-tracing renderer; export required for quality renders
-- **Interface** — Interface less refined than MagicaVoxel
-- **Scene Size** — Very large voxel scenes can affect performance
+- **Limited Advanced Features** — Fewer tools than MagicaVoxel for complex voxel art
+- **Performance Limits** — Large voxel scenes cause significant slowdowns
+- **No Path Tracing** — Rendering quality significantly below MagicaVoxel's built-in renderer
+- **Mobile UI Constraints** — Mobile version has reduced functionality compared to desktop
 
 ---
 
@@ -121,7 +121,7 @@ Goxel is a free, open-source 3D voxel editor for Windows, macOS, Linux, iOS, and
 
 ---
 
-**Goxel Free Installer** — Goxel is a free, open-source 3D voxel editor for Windows, macOS, Linux, iOS, and Android. Install without internet connection today!
+**Goxel Free Installer** — Goxel is a free, open-source voxel editor for Windows, macOS, Linux, iOS, and Android. Install without internet connection today!
 
 <div align="center">
 
